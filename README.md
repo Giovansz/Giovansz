@@ -8,7 +8,7 @@
 <body>
   <div class="main" align="center">
     <h2> Technologies I am currently studying </h2>
-    <img src="https://skillicons.dev/icons?i=git,java,python,cs,html,css,ruby" />
+    <img src="https://skillicons.dev/icons?i=git,python,html,css,ruby" />
   </div>
 </body>
 
