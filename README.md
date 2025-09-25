@@ -3,6 +3,7 @@
     <h3> Hello, World! My name is Giovane! 👋</h3>
     <hr>
     <pre>
+
 I'm studying Analysis and Systems Development! 
 
 👋 I'm new here, and i'm aiming to work with systems that follow <b> best practices, security, </b> and <b>easy maintenance. 🖥️</b>
@@ -18,4 +19,4 @@ I'm studying Analysis and Systems Development!
     <img src="https://skillicons.dev/icons?i=git,python,html,css,ruby"/>
   </div>
 </body>
-<!-- I'm using "header" and "body" to show a bit of knowledge. -->
+<!-- I'm using "header", "body" and classes to show a bit of knowledge. -->
