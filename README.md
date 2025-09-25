@@ -1,6 +1,7 @@
 <header>
   <div class="text-containers"> <!-- Hi, this is a header for an "about me"! -->
     <h3> Hello, World! My name is Giovane! 👋</h3>
+    <hr>
     <pre>
 I'm studying Analysis and Systems Development! 
 
@@ -12,7 +13,8 @@ I'm studying Analysis and Systems Development!
 </header>
 <body> <!-- Tecnichal Informations! -->
   <div class="main">
-    <h3> Technologies and tools I'm currently learning </h3>
+    <hr>
+    <h3> Technologies and tools I'm currently learning: </h3>
     <img src="https://skillicons.dev/icons?i=git,python,html,css,ruby"/>
   </div>
 </body>
